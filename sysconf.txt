@@ -14,7 +14,7 @@ Breeze-Dark [GTK2/3]
 Icons:
 HighContrast [GTK2/3]
 Terminal:
-Tilix(tilix.dconf)
+Tilix
 Font:
 Noto Sans Mono Regular
 -----------------
@@ -29,3 +29,14 @@ Noto Sans Mono Regular
 *Tiling assistant
 *Transparent window
 *Vitals
+-----------------
+#Packages
+*Nemo
+*Tilix(tilix.dconf)
+*Cursor/VS Code(main.code-profile)
+*Cava
+*Ranger
+*Remmina
+*Micro
+*Git
+*Ya.Music(https://github.com/cucumber-sp/yandex-music-linux)
