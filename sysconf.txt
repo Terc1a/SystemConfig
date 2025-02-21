@@ -40,3 +40,9 @@ Noto Sans Mono Regular
 *Micro
 *Git
 *Ya.Music(https://github.com/cucumber-sp/yandex-music-linux)
+*Transmission
+-------------------
+Display:
+Scale 125% by gsettings set org.gnome.mutter experimental-features "['scale-monitor-framebuffer']"
+Cursor:
+Hakurei Reimu
