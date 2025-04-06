@@ -29,6 +29,7 @@ Noto Sans Mono Regular
 *Tiling assistant
 *Transparent window
 *Vitals
+*Search Light
 -----------------
 #Packages
 *Nemo
