@@ -1,49 +1,32 @@
 #System
 OS: 
-Debian 12 Bookworm LTS
+Linux Mint
 Shell:
-Bash 5.2.15
+Bash
 DE:
-Gnome 43.9
+Cinnamon
 WM:
-Mutter
+Muffin(X11)
 WM Theme:
-Adwaita
-Theme:
-Breeze-Dark [GTK2/3]
+Nordic-darker-v40
 Icons:
-HighContrast [GTK2/3]
+Papirus Dark
 Terminal:
 Tilix
-Font:
-Noto Sans Mono Regular
------------------
-#Extensions
-*QSTweak
-*Blur my shell
-*Freon
-*No activities button
-*Open bar
-*Pano
-*Screenshot tool(requires gnome-screenshot)
-*Tiling assistant
-*Transparent window
-*Vitals
-*Search Light
 -----------------
 #Packages
 *Nemo
 *Tilix(tilix.dconf)
 *Cursor/VS Code(main.code-profile)
 *Cava
+*Emacs
 *Ranger
-*Remmina
-*Micro
-*Git
-*Ya.Music(https://github.com/cucumber-sp/yandex-music-linux)
-*Transmission
+*lolcat
+*stacer
+*plank
+*Zen
+*Clementine
+
 -------------------
-Display:
-Scale 125% by gsettings set org.gnome.mutter experimental-features "['scale-monitor-framebuffer']"
 Cursor:
-Hakurei Reimu
+Hatsune Miku
