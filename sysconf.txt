@@ -16,17 +16,18 @@ Tilix
 -----------------
 #Packages
 *Nemo
-*Tilix(tilix.dconf)
+*Ghostty
 *Cursor/VS Code(main.code-profile)
 *Cava
 *Emacs
 *Ranger
 *lolcat
 *stacer
-*plank
 *Zen
-*Clementine
+*MC
 *Zotero
+*Opencode
+*Karing
 
 -------------------
 Cursor:
