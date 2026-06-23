@@ -1,34 +1,26 @@
-#System
-OS: 
-Linux Mint
-Shell:
-Bash
-DE:
-Cinnamon
-WM:
-Muffin(X11)
-WM Theme:
-Nordic-darker-v40
-Icons:
-Papirus Dark
-Terminal:
-Tilix
------------------
-#Packages
-*Nemo
-*Ghostty
-*Cursor/VS Code(main.code-profile)
-*Cava
-*Emacs
-*Ranger
-*lolcat
-*stacer
-*Zen
-*MC
-*Zotero
-*Opencode
-*Karing
+Установлено в системе:
+Zen
+Windows Terminal
+MyWallet
+DBeaver
+Db Browser SQLITE
+Postman
+Pomodoro Timer
+VS Code
+FlashPaste
+Desktop Fences
+YASB
+TG WS Proxy
+Lightshot
 
--------------------
-Cursor:
-Hatsune Miku
+Установлено в VS Code:
+Beautify
+Material Icon Theme
+BetterComments
+BlackFormatter
+ErrorLens
+ExcaliDraw
+Indent-rainbow
+Pylance
+Vibrancy Continued
+Tokyo-night
